@@ -6,7 +6,7 @@ This project is *currently stopped* at the `beta v0.0.4` because of my studies
 ![proto_banner](https://github.com/marwank270/marwank270/blob/8fba33c0519d0a27c18b5b06354754d42c56f1a3/res/proto_banner.png)
 
 ## Génial-O ► Discord server moderation, easier than.
-Génial-O has been started with the objective to make your Discord servers safer easily, started on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome) we are curently upgrading it to [Discord.js v13](https://discord.js.org/#/docs/main/13.4.0/general/welcome).
+Génial-O has been started with the objective to make your Discord servers safer easily, started on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome)and currently being updated to [Discord.js v13](https://discord.js.org/#/docs/main/13.4.0/general/welcome).
 The Génial-O project is *currently online* and available on [Genialo.xyz](https://genialo.xyz) (more information available here). 
 - [Génial-Team](https://github.com/Genial-Team) ► the developpers
   - *Lead* dev : [Lynhe](https://github.com/LynheDev)
