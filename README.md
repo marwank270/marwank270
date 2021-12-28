@@ -3,7 +3,7 @@
 ## Proto ツ
 Proto is a **Discord bot** coded in **JavaScript** and based on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome).
 This project is *currently stopped* at the `beta v0.0.4` because of my studies
-
+![proto_banner](https://github.com/marwank270/marwank270/res/proto_banner.png)
 <!--
 **marwank270/marwank270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
