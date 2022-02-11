@@ -15,7 +15,7 @@ This project is *currently stopped* at the `beta v0.0.4` because of my studies.
 Génial-O has been started with the objective to make your Discord servers safer easily, started on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome) and it's currently being updated to [Discord.js v13](https://discord.js.org/#/docs/main/13.4.0/general/welcome).
 The Génial-O project is *currently online* and available on [Genialo.xyz](https://genialo.xyz) (more information available here). 
 - [Génial-Team](https://github.com/Genial-Team) ► Memebers of the team that work on Génial-O
-  - *Lead* dev : [Lynhe](https://github.com/LynheQ)
+  - *Lead* dev : [Lynhe](https://github.com/LyneQ)
   - *Second* dev & Graphist : [Marwan](https://github.com/marwank270) (me)
  
   
