@@ -8,14 +8,14 @@ This project is *currently stopped* at the `beta v0.0.4` because of my studies.
   - *Side* goal : This bot was also made to improve my organisation, help me to follow corectly a project and my coding skills in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - The Team ► The developpers
    - *Lead* dev & Graphist : [Marwan](https://github.com/marwank270) (me) 
-   - *Helper* : [Lynhe](https://github.com/LynheDev)
+   - *Helper* : [Lynhe](https://github.com/LyneQ)
 ![proto_banner](https://github.com/marwank270/marwank270/blob/8fba33c0519d0a27c18b5b06354754d42c56f1a3/res/proto_banner.png)
 
 ## Génial-O ► Discord server moderation, easier than ever.
 Génial-O has been started with the objective to make your Discord servers safer easily, started on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome) and it's currently being updated to [Discord.js v13](https://discord.js.org/#/docs/main/13.4.0/general/welcome).
 The Génial-O project is *currently online* and available on [Genialo.xyz](https://genialo.xyz) (more information available here). 
 - [Génial-Team](https://github.com/Genial-Team) ► Memebers of the team that work on Génial-O
-  - *Lead* dev : [Lynhe](https://github.com/LynheDev)
+  - *Lead* dev : [Lynhe](https://github.com/LynheQ)
   - *Second* dev & Graphist : [Marwan](https://github.com/marwank270) (me)
  
   
