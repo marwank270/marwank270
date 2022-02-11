@@ -5,7 +5,7 @@ Proto is a **Discord bot** coded in [**JavaScript**](https://developer.mozilla.o
 This project is *currently stopped* at the `beta v0.0.4` because of my studies.
 - The goal ► Objectives Of Proto ツ
   - *Main* goal : The reason Proto ツ was created for is being THE bot in your servers rather than a hundred which each have only one function
-  - *Side* goal : This bot was also made to improve my organisation, help me to follow coorectly a project and my coding skills in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - *Side* goal : This bot was also made to improve my organisation, help me to follow corectly a project and my coding skills in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - The Team ► The developpers
    - *Lead* dev & Graphist : [Marwan](https://github.com/marwank270) (me) 
    - *Helper* : [Lynhe](https://github.com/LynheDev)
