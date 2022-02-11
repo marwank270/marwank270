@@ -1,14 +1,20 @@
 # My projects 🥼🧪💥
 
-## Proto ツ ► My powerful Discord bot.
-Proto is a **Discord bot** coded in **JavaScript** and based on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome).
+## Proto ツ ► My powerful & polyvalent Discord bot.
+Proto is a **Discord bot** coded in [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and based on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome).
 This project is *currently stopped* at the `beta v0.0.4` because of my studies
+- The goal ► Objectives Of Proto ツ
+  - *Main* goal : The reason Proto ツ was created for is being THE bot in your servers rather than a hundred which each have only one function
+  - *Side* goal : This bot was also made to improve my organisation and my coding skills in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- The Team ► The developpers
+   - *Lead* dev & Graphist : [Marwan](https://github.com/marwank270) (me) 
+   - *Helper* : [Lynhe](https://github.com/LynheDev)
 ![proto_banner](https://github.com/marwank270/marwank270/blob/8fba33c0519d0a27c18b5b06354754d42c56f1a3/res/proto_banner.png)
 
 ## Génial-O ► Discord server moderation, easier than ever.
 Génial-O has been started with the objective to make your Discord servers safer easily, started on [Discord.js v12](https://discord.js.org/#/docs/main/v12/general/welcome) and it's currently being updated to [Discord.js v13](https://discord.js.org/#/docs/main/13.4.0/general/welcome).
 The Génial-O project is *currently online* and available on [Genialo.xyz](https://genialo.xyz) (more information available here). 
-- [Génial-Team](https://github.com/Genial-Team) ► the developpers
+- [Génial-Team](https://github.com/Genial-Team) ► Memebers of the team that work on Génial-O
   - *Lead* dev : [Lynhe](https://github.com/LynheDev)
   - *Second* dev & Graphist : [Marwan](https://github.com/marwank270) (me)
  
