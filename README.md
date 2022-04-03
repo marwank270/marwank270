@@ -6,7 +6,7 @@ This project is *currently stopped* at the `beta v0.0.4` because of my studies.
 - The goal ► Objectives of Proto ツ
   - *Main* goal : The reason Proto ツ was created for is being THE bot in your servers rather than a hundred which each have only one function
   - *Side* goal : This bot was also made to improve my organisation, help me to follow correctly a project and my coding skills in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- The Team ► The developpers
+- The Team ► Developpers
    - *Lead* dev & Graphist : [Marwan](https://github.com/marwank270) (me) 
    - *Helper* : [Lynhe](https://github.com/LyneQ)
 ![proto_banner](https://github.com/marwank270/marwank270/blob/8fba33c0519d0a27c18b5b06354754d42c56f1a3/res/proto_banner.png)
