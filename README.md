@@ -16,7 +16,7 @@ Génial-O has been started with the objective to make your Discord servers safer
 The Génial-O project is *currently online* and available on [Genialo.xyz](https://genialo.xyz) (more information available here). 
 - [Génial-Team](https://github.com/Genial-Team) ► Memebers of the team that work on Génial-O
   - *Lead* dev : [Lynhe](https://github.com/LyneQ)
-  - *Second* dev & Graphist : [Marwan](https://github.com/marwank270) (me)
+  - *Helper* dev & Graphist : [Marwan](https://github.com/marwank270) (me)
  
   
 ![genialo_banner_white_bg](https://genialo.xyz/banner.png)
