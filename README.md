@@ -19,7 +19,7 @@ The Génial-O project is *currently online* and available on [Genialo.xyz](https
   - *Helper* dev & Graphist : [Marwan](https://github.com/marwank270) (me)
  
   
-![genialo_banner_white_bg](https://genialo.xyz/banner.png)
+![genialo-banner](https://genialo.cc/public/new/genialo-banner.png)
 
 ## [Application Console C# 2021-2022](https://github.com/marwank270/projet_csharp) ► A cool school project to learn and master C#
 This app and all the TPs have for objective to make our class comfortable with C# using [Visual Studio 2019](https://visualstudio.microsoft.com/fr/vs/older-downloads/) and [.NET Core](https://docs.microsoft.com/fr-fr/dotnet/csharp/)
